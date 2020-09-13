@@ -85,32 +85,32 @@
 # turtle.done()
 
 # 10
-import turtle
-SCREEN_WIDTH = 600  # Ширина экрана.
-SCREEN_HEIGHT = 600  # Высота экрана.
-TARGET_LLEFT_Х = 100  # Левая нижняя координата х цели.
-TARGET_LLEFT_У = 200  # Левая нижняя координата у цели.
-TARGET_WIDTH = 100  # Ширина цели.
-NORTH = 90  # Угол северного направления.
-SOUTH = 270  # Угол южного направления.
-EAST = 0  # Угол восточного направления.
-WEST = 180  # Угол западного направления.
-#Настроить окно.
-# turtle.setup(SCREEN_WIDTH, SCREEN_HEIGHT)
-# Нарисовать цель.
-turtle.hideturtle()
-turtle.speed(0)
-turtle.penup()
-turtle.goto(TARGET_LLEFT_Х, TARGET_LLEFT_У)
-turtle.pendown()
-turtle.setheading(EAST)
-turtle.forward(TARGET_WIDTH)
-turtle.setheading(NORTH)
-turtle.forward(TARGET_WIDTH)
-turtle.setheading(WEST)
-turtle.forward(TARGET_WIDTH)
-turtle.setheading(SOUTH)
-turtle.forward(TARGET_WIDTH)
-turtle.penup()
-
-turtle.done()
+# import turtle
+# SCREEN_WIDTH = 600  # Ширина экрана.
+# SCREEN_HEIGHT = 600  # Высота экрана.
+# TARGET_LLEFT_Х = 100  # Левая нижняя координата х цели.
+# TARGET_LLEFT_У = 200  # Левая нижняя координата у цели.
+# TARGET_WIDTH = 100  # Ширина цели.
+# NORTH = 90  # Угол северного направления.
+# SOUTH = 270  # Угол южного направления.
+# EAST = 0  # Угол восточного направления.
+# WEST = 180  # Угол западного направления.
+# #Настроить окно.
+# # turtle.setup(SCREEN_WIDTH, SCREEN_HEIGHT)
+# # Нарисовать цель.
+# turtle.hideturtle()
+# turtle.speed(0)
+# turtle.penup()
+# turtle.goto(TARGET_LLEFT_Х, TARGET_LLEFT_У)
+# turtle.pendown()
+# turtle.setheading(EAST)
+# turtle.forward(TARGET_WIDTH)
+# turtle.setheading(NORTH)
+# turtle.forward(TARGET_WIDTH)
+# turtle.setheading(WEST)
+# turtle.forward(TARGET_WIDTH)
+# turtle.setheading(SOUTH)
+# turtle.forward(TARGET_WIDTH)
+# turtle.penup()
+#
+# turtle.done()
