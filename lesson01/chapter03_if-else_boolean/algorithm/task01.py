@@ -31,24 +31,24 @@
 # print(b)
 
 # 04
-# score = 1
-# A_score = 2
-# B_score = 3
-# C_score = 4
-# D_score = 5
-# if score >= A_score:
-#     print('Ваш уровень - А.')
-# else:
-#     if score >= B_score:
-#         print('Ваш уровень - В. ')
-#     else:
-#         if score >= C_score:
-#             print('Ваш уровень - С. ')
-#         else:
-#             if score >= D_score:
-#                 print('Baш уровень - D.')
-#             else:
-#                 print('Ваш уровень - F. ')
+score = 1
+A_score = 2
+B_score = 3
+C_score = 4
+D_score = 5
+if score >= A_score:
+    print('Ваш уровень - А.')
+else:
+    if score >= B_score:
+        print('Ваш уровень - В. ')
+    else:
+        if score >= C_score:
+            print('Ваш уровень - С. ')
+        else:
+            if score >= D_score:
+                print('Baш уровень - D.')
+            else:
+                print('Ваш уровень - F. ')
 # 05
 # amount1 = 11
 # amount2 = 15
