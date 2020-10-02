@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../python_univer/.idea/python_univer.iml" filepath="$PROJECT_DIR$/../python_univer/.idea/python_univer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../old/opportunities/.idea/opportunities.iml" filepath="$PROJECT_DIR$/../old/opportunities/.idea/opportunities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_univer.iml" filepath="$PROJECT_DIR$/.idea/python_univer.iml" />
     </modules>
   </component>
 </project>
